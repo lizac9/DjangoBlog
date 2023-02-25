@@ -1,3 +1,7 @@
+[View the Live Project here](https://codestar20233.herokuapp.com/)
+
+https://codestar20233.herokuapp.com/
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome lizac9,
